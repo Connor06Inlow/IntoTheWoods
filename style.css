@@ -1,0 +1,48 @@
+* {
+    color:rgb(72, 92, 85);
+    background-color: darksalmon;
+    font-size: 32px;
+    font-family:fantasy;
+
+
+}
+
+
+.run-in-fear {
+    text-decoration: underline;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    color: beige;
+}
+
+.footer::after {
+    content: 'Ⓒ Connor Inlow 2022';
+    background-color: #424;
+    color:aliceblue;
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 50px;
+}
+
+.header::before {
+    content: 'Into The Woods';
+    color:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+
+    
+}
+
+.desc {
+    padding: 50px;
+}
+
+.shadow {
+    height:300px;
+    
+}
+
+
+
